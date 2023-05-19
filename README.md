@@ -1,4 +1,4 @@
-# Portfolio_projects
+# MySQL - exploring covid-19 data
 
 
 
